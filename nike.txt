@@ -2,3 +2,4 @@ Sample content
 
 This is insane 
 How is this even possible
+Nicee now i can use git diff
